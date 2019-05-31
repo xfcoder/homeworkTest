@@ -13,7 +13,6 @@
 + 测试点2
 
 ## 标题4 图片插入测试
-### 基本格式
 
 ![截图1](https://github.com/xfcoder/homeworkTest/blob/master/main/%E6%88%AA%E5%9B%BE1.png "鼠标停留在图片上时显示的内容")
 
