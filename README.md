@@ -24,11 +24,9 @@
 <http://blog.sina.com.cn/chzhshch>
 
 ## 标题6 插入代码测试
-''' python
-
+``` python
 print("hello world!")
-
-'''
+```
 
 
 ## 分支编写测试
